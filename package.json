@@ -22,9 +22,9 @@
   "author": "Pascal Malbranche <pascal@malbranche.de>, Jose Luis <jose@lcortes.net> (http://lcortes.net), Muhamad Muchlis <tru3.d3v@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "email-templates": "^8.0.8",
+    "email-templates": "^11.1.1",
     "handlebars": "^4.7.7",
-    "nodemailer": "^6.7.2"
+    "nodemailer": "^6.9.9"
   },
   "devDependencies": {
     "prettier": "^2.5.1"
